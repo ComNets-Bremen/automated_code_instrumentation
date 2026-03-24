@@ -110,7 +110,7 @@ plot_match_percentages(
     COLOR_SETS["Arduino_Repos"]
 )
 
-print(" All three color graphs generated successfully with proper scaling and STIX (Times-like) font.")
+print(" All three color graphs generated successfully.")
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -216,4 +216,4 @@ plot_difference_percentages(
     COLOR_SETS["Arduino_Repos"]
 )
 
-print(" All three color graphs generated successfully with proper scaling and STIX (Times-like) font.")
+print(" All three color graphs generated successfully.")
